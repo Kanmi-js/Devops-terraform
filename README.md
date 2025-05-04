@@ -18,5 +18,16 @@ This project uses Terraform to provision and manage cloud infrastructure for <br
 ---
 
  Directory Structure
+/modules
+/<module-name>
+/envs
+/dev
+/staging
+/prod
+main.tf
+variables.tf
+outputs.tf
+backend.tf
+README.md
 
 
