@@ -15,9 +15,11 @@ This project uses Terraform to provision and manage cloud infrastructure for <br
 - CI/CD Integration: <GitHub Actions / GitLab CI / Azure DevOps>
 - Modules Used: <local modules / Terraform Registry modules / none>
 
----
+
 
  Directory Structure
+
+
 /modules
 /<module-name>
 /envs
